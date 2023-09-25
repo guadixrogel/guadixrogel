@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guadixrogel
-- 👀 I’m interested in music, python and sports
-- 🌱 I’m currently learning python (flask right now), data structures and web development
+- 👀 I’m interested in music, python, sports and videogames
+- 🌱 I’m currently learning python (flask right now), data structures and web development (JSS, HTML, CSS, Wordpress, PHP)
 - 💞️ I’m looking to collaborate on the next form to connect the music wiht the technology
 - 📫 How to reach me <guadix.bussiness@gmail.com>
 
